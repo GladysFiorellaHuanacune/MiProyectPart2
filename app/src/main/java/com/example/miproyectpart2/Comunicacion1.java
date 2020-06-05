@@ -44,4 +44,5 @@ public class Comunicacion1 extends AppCompatActivity {
     public void sucursales(View view) {
         startActivityForResult(new Intent(this, Comunicacion3.class), 3500);
     }
+
 }
